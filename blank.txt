@@ -5,3 +5,6 @@
 这是第5行，这是在目录中创建了blank_unadd.txt文件后，在blank.txt文件中添加的内容。
 
 这是第7行，这是进行修改后，但是没有进行add进行追踪，准备使用commit -a 进行提交
+
+
+zhe shi zai nuc shang xiede 
